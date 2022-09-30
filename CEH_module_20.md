@@ -1,6 +1,6 @@
 # Module 20
 
-**Cryptography**
+### Cryptography
 
 Cryptography means encrypting the data or information.
 
