@@ -26,7 +26,8 @@ A commonly referred-to framework in the information security space is the cyber 
 
 Cyber kill chain methodology is step by step method how an attack is prepared by attacker , and How organization prepare to defense  themselves.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slcyber.io%2Fshifting-left-in-the-cyber-kill-chain%2F&psig=AOvVaw1HaigInMhgFozJ7B1x2Gde&ust=1699408365579000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICF3tHjsIIDFQAAAAAdAAAAABAE
+![image](https://github.com/peaceasad/CEH_Modules/assets/59176416/fafc51c2-ba9a-4e82-9f6a-e41b94342759)
+
 
 **Just think of that , Before going to a WAR , what methodology is importan**t ,
 
